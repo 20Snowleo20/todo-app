@@ -2,7 +2,7 @@
   "name": "todo-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://20Snowleo20.github.io/Reactfirstproject",
+  "homepage": "https://20Snowleo20.github.io/todo-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
